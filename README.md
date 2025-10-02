@@ -4,12 +4,12 @@ Project by Alex RHODES and Eliot PAZZE
 Canva : https://www.canva.com/design/DAG0oGv7Y8s/Q9ij_uBzxmuhIZibXk6X4A/edit?utm_content=DAG0oGv7Y8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Elements de reflexion : 
-  -Image du présentateur
-  -Voix de Julien Lepers/Samuel Etienne
-  -Comparaison timestamp pour gérer les conflits de buzzer
-  -Afficher image du joueur prise par la webcam juste avant
-  -Questions générées par LLM via API
-  -Buzzer si erreur
+  - Image du présentateur
+  - Voix de Julien Lepers/Samuel Etienne
+  - Comparaison timestamp pour gérer les conflits de buzzer
+  - Afficher image du joueur prise par la webcam juste avant
+  - Questions générées par LLM via API
+  - Buzzer si erreur
 
 Déroulement du jeu : 
   - 9 points gagants :
